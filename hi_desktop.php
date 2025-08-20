@@ -1,5 +1,5 @@
 <?php 
 echo "Hello, GitHub Desktop!";
 echo "faaiz chapri";
-echo "faaiz chapri1";
+echo "aazan chapri1";
 ?>
